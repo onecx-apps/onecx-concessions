@@ -1,0 +1,8 @@
+name: onecx-concessions
+title: Concessions Management
+version: latest
+start_page: onecx-concessions:index.adoc
+nav:
+ - modules/onecx-concessions/nav.adoc
+ - modules/onecx-concessions-svc/nav.adoc
+ - modules/onecx-concessions-bff/nav.adoc

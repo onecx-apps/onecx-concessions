@@ -1,2 +1,2 @@
 # onecx-concessions
-OneCx concessions Management
+OneCx Concessions Management
