@@ -5,11 +5,11 @@ appversion: 0.0.0
 dependencies:
 - name: helm-product
   version: ^0
-  repository: oci://ghcr.io/onecx-apps/charts
+  repository: oci://ghcr.io/onecx/charts
   alias: product
 - name: onecx-concessions-svc
   version: "*-0"
-  repository: oci://ghcr.io/onecx/charts
+  repository: oci://ghcr.io/onecx-apps/charts
   condition: "deployment.svc"
   alias: "svc"
 - name: onecx-concessions-bff
