@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.6
 - name: onecx-concessions-ui
   repository: oci://ghcr.io/onecx-apps/charts
-  version: 0.0.0-rc.14
-digest: sha256:cb744436bdd263ab2bf26f9b4e02f52216be602b73782eed5c418dbd98d64a40
-generated: "2024-05-27T14:36:58.312493071Z"
+  version: 0.0.0-rc.15
+digest: sha256:4b1f1bc5bd5ee9973de0c3707a5c5b0b5e5715bcd786ff107a93c2166ea6368e
+generated: "2024-05-28T08:40:42.966796718Z"
