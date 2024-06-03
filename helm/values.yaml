@@ -6,9 +6,9 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Concessions"
+      description: "DB Concessions"
       imageUrl: ""
       iconName: "lock"
-      displayName: "OneCX Concessions"
+      displayName: "DB Concessions"
       basePath: "/concessions"
       
