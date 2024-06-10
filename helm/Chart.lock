@@ -1,7 +1,7 @@
 dependencies:
 - name: helm-product
   repository: oci://ghcr.io/onecx/charts
-  version: 0.1.0
+  version: 0.2.0
 - name: onecx-concessions-svc
   repository: oci://ghcr.io/onecx-apps/charts
   version: 0.0.0-rc.10
@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.7
 - name: onecx-concessions-ui
   repository: oci://ghcr.io/onecx-apps/charts
-  version: 0.0.0-rc.18
-digest: sha256:2a87354379b2878b741f1ca36df1da877ca4c67518dd7741db016ffebdc67265
-generated: "2024-06-03T13:36:00.312983115Z"
+  version: 0.0.0-rc.19
+digest: sha256:cbd7412cddfbef0f8b6c8022207ef78df2810c65ebea283b4760b420688876ea
+generated: "2024-06-10T14:14:21.461945913Z"
